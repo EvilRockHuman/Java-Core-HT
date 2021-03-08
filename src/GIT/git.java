@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class git {
+package GIT;
+
+public class git {
+    public static void main(String[] args) {
+        System.out.println("GIT");
+    }
 }
