@@ -1,7 +1,7 @@
 package GIT;
 
-public class git {
+public class String {
     public static void main(String[] args) {
-        System.out.println("GIT");
+
     }
 }
